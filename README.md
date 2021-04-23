@@ -1,4 +1,4 @@
-# <img width="20" src=/pics/beyond_the_bean.png> Case Study: Beyond the Bean
+# <img width="45" src=/pics/beyond_the_bean.png> Case Study: Beyond the Bean
 
 ## Background
 
@@ -13,9 +13,8 @@ This case analysis is based on the `Beyond the Bean` Case study attached here, a
   <img width="500" src=pics/Personal_map.jpg>
 </p>
 
-
 <p align="center">
-  <img width="500" src=pics/Location.jpg>
+  <img width="500" src=pics/location.jpg>
 </p>
 
 <p align="center">
