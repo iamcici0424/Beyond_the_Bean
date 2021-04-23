@@ -2,6 +2,8 @@
 
 ## Background
 
+* [Case Study: Beyond_the_Bean](docs/Case-Beyond_the_Bean.pdf)
+
 This case analysis is based on the `Beyond the Bean` Case study attached here, and it was the final project for MKT4330: Marketing Analysis. We want to ensure that the launch of the board game café `Beyond the Bean` happens successfully within the next year by designing an effective marketing plan that includes SWOT analysis, the right target market, product pricing, promotion plan, and final product offering.
 
 
@@ -20,6 +22,8 @@ This case analysis is based on the `Beyond the Bean` Case study attached here, a
 <p align="center">
   <img width="500" src=pics/Summary.jpg>
 </p>
+
+
 
 
 
