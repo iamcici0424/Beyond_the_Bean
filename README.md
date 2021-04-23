@@ -1,4 +1,4 @@
-# <img width="20" src=iamcici0424/pics/beyond_the_bean.png> Case Study: Beyond the Bean
+# <img width="20" src=pics/beyond_the_bean.png> Case Study: Beyond the Bean
 
 ## Background
 
