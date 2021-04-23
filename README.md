@@ -1,4 +1,4 @@
-# <img width="20" src=iamcici0424/pics/beyond_the_bean.png> Case Study: Beyond the Bean
+# <img width="20" src=/pics/beyond_the_bean.png> Case Study: Beyond the Bean
 
 ## Background
 
@@ -12,5 +12,16 @@ This case analysis is based on the `Beyond the Bean` Case study attached here, a
 <p align="center">
   <img width="500" src=pics/Personal_map.jpg>
 </p>
+
+
+<p align="center">
+  <img width="500" src=pics/Location.jpg>
+</p>
+
+<p align="center">
+  <img width="500" src=pics/Summary.jpg>
+</p>
+
+
 
 
